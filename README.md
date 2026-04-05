@@ -2,10 +2,16 @@
 
 Portfolio projekt manuálního testování reálného produkčního webu.
 
+**Jira:** [odkaz](https://slechtajakub.atlassian.net/jira/software/projects/KAN/boards/2?jql=&atlOrigin=eyJpIjoiMjY5OGVkYTlhZDAwNGU1Y2JkZjU0YjM2Njc5NDM3ZTUiLCJwIjoiaiJ9)
+
 **Testovaný web:** [hvezdarna.cz](https://www.hvezdarna.cz)  
 **Typ testování:** Black-box, manuální funkční testování  
 **Nástroje:** Jira, Chrome DevTools, Google Docs  
 **Datum:** Duben 2026
+
+---
+
+<img width="1418" height="948" alt="Hvezdarna_Jira_manual_testing" src="https://github.com/user-attachments/assets/70122224-f019-4d64-9d4b-09c3007581dc" />
 
 ---
 
